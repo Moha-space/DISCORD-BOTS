@@ -16,5 +16,5 @@ BOT_CONFIGS = [
 ]
 
 
-AUTHORIZED_USERS = {""}        
+OWNER = {""}        
     
