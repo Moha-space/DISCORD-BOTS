@@ -1,6 +1,3 @@
-# DISCORD-BOTS
 FREE OPEN SOURCES ENJOY 
-# --
 
-PLZ MAKE SURE YALL GIVE ME CREDIT FOR THIS 
-discord - joybomoha 
+# dc - joybomoha
